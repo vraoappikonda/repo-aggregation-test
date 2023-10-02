@@ -1,6 +1,8 @@
 [submodule "repo1"]
 	path = repo1
 	url = https://github.com/vraoappikonda/repo1
+	branch = develop
 [submodule "repo2"]
 	path = repo2
 	url = https://github.com/vraoappikonda/repo2
+	branch = feature/angular_components
